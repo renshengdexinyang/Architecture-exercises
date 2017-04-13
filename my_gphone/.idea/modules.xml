@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework-base-widget/framework-base-widget.iml" filepath="$PROJECT_DIR$/framework/framework-base-widget/framework-base-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework-http/framework-http.iml" filepath="$PROJECT_DIR$/framework/framework-http/framework-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework-pull-to-refresh/framework-pull-to-refresh.iml" filepath="$PROJECT_DIR$/framework/framework-pull-to-refresh/framework-pull-to-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mmi/gphone-mmi.iml" filepath="$PROJECT_DIR$/gphone-mmi/gphone-mmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/gphone-mode.iml" filepath="$PROJECT_DIR$/gphone-mode/gphone-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mmi/gphone-text/gphone-text.iml" filepath="$PROJECT_DIR$/gphone-mmi/gphone-text/gphone-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/mode-HQ/mode-HQ.iml" filepath="$PROJECT_DIR$/gphone-mode/mode-HQ/mode-HQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/mode-HomePage/mode-HomePage.iml" filepath="$PROJECT_DIR$/gphone-mode/mode-HomePage/mode-HomePage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/mode-JY/mode-JY.iml" filepath="$PROJECT_DIR$/gphone-mode/mode-JY/mode-JY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/mode-WO/mode-WO.iml" filepath="$PROJECT_DIR$/gphone-mode/mode-WO/mode-WO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/mode-ZX/mode-ZX.iml" filepath="$PROJECT_DIR$/gphone-mode/mode-ZX/mode-ZX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gphone-mode/mode-init/mode-init.iml" filepath="$PROJECT_DIR$/gphone-mode/mode-init/mode-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_gphone.iml" filepath="$PROJECT_DIR$/my_gphone.iml" />
+    </modules>
+  </component>
+</project>

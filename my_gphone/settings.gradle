@@ -1,0 +1,12 @@
+include ':framework:framework-base-widget'
+include ':framework:framework-http'
+include ':framework:framework-pull-to-refresh'
+
+include ':gphone-mode:mode-HomePage'
+include ':gphone-mode:mode-HQ'
+include ':gphone-mode:mode-JY'
+include ':gphone-mode:mode-WO'
+include ':gphone-mode:mode-init'
+include ':gphone-mode:mode-ZX'
+
+include ':gphone-mmi:gphone-text'
